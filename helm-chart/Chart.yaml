@@ -1,0 +1,4 @@
+apiVersion: v2
+name: usermgmt-service-ms
+description: Helm chart for usermgmt-service-ms
+version: 1.0.0-SNAPSHOT
